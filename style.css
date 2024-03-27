@@ -1,0 +1,51 @@
+*{
+    background-color: black;
+   
+  padding: 0%;
+}
+
+.head
+{
+  color:yellow;  
+ 
+}
+img{
+    border: solid 2px black;
+    border-radius: 1.25rem;
+    margin-bottom: 0%;
+    position: relative;
+    left:43%;
+    
+  
+   
+}
+
+section{
+  background-color: black ;
+
+}
+
+#h11{
+  color:blanchedalmond;
+  text-align: center;
+}
+.s{
+  text-align: center;
+ background-color: black;
+  color: white;
+}
+p{
+  color: white;
+}
+#skill{
+margin-bottom:1%;
+  text-align: center;
+margin-top: 1%;
+}
+footer{
+  padding: 0%;
+  background-color: black;
+  margin-top: 0%;
+  color: white;
+  text-align: center;
+}
